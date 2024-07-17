@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseNotificationActivity</string>
+    <string name="base_activity">Base Activity</string>
+    <string name="get_token">Get Token</string>
+
+    <string name="called_by_notif">vActivity called by Firebase Notification</string>
+</resources>

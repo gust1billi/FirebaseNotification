@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316731581169",
+    "project_id": "gbbig-testfirebasemessaging",
+    "storage_bucket": "gbbig-testfirebasemessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316731581169:android:b8ac03abc27cec3078ff50",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessagingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_n2gv3iCVE9_RD5ADaOg-1BqVoFjHHTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316731581169:android:2a9473bb038d587478ff50",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotificationactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_n2gv3iCVE9_RD5ADaOg-1BqVoFjHHTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
